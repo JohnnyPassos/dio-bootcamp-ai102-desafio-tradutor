@@ -118,16 +118,14 @@ Este projeto está sob a licença **MIT** — veja o arquivo `LICENSE` para mais
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome Aqui]**  
+Desenvolvido por **Johnny Pasos**  
 💼 Bootcamp: *DIO - Microsoft AI-102 Preparation*  
-📧 Contato: [seuemail@exemplo.com]  
-🔗 LinkedIn: [https://linkedin.com/in/seunome](https://linkedin.com/in/seunome)
+📧 Contato: johnnypassos07@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/johnny-passos-1aa06359/
 
 ---
 
-## 🏷️ Badges (opcionais)
-
-Você pode adicionar estes badges no topo do README:
+## 🏷️ Badges 
 
 ```markdown
 ![Feito no Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-blue?logo=googlecolab)
